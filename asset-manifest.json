@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DiceGame/static/css/main.99922dbd.css",
+    "main.js": "/DiceGame/static/js/main.5a9c2d8f.js",
+    "static/js/787.6889b8c7.chunk.js": "/DiceGame/static/js/787.6889b8c7.chunk.js",
+    "static/media/Pony.ttf": "/DiceGame/static/media/Pony.99ddd1e5ee531d1eb8a2.ttf",
+    "static/media/logo.svg": "/DiceGame/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/DiceGame/index.html",
+    "main.99922dbd.css.map": "/DiceGame/static/css/main.99922dbd.css.map",
+    "main.5a9c2d8f.js.map": "/DiceGame/static/js/main.5a9c2d8f.js.map",
+    "787.6889b8c7.chunk.js.map": "/DiceGame/static/js/787.6889b8c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99922dbd.css",
+    "static/js/main.5a9c2d8f.js"
+  ]
+}
